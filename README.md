@@ -456,5 +456,4 @@ For issues or questions, please check the application logs or contact the develo
 **Server**: `http://localhost:5000`
 
 **Admin Panel**: `http://localhost:5000/admin`
-#   V e h i c l e C a r e  
- 
+#
